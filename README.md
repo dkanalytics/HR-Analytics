@@ -12,8 +12,7 @@ The objective was to transform raw employee data into an interactive Excel dashb
 
 Interactive slicers to filter that data by Area and Department.
 
-![Uploading Main-Screen-Shot-GIF22.gif…]()
-
+<img width="1342" height="662" alt="Main-Screen-Shot-GIF22" src="https://github.com/user-attachments/assets/a47c046f-f369-4fc5-b29d-7905a87f3db6" />
 
 ## Process
 ### 1. Generated and cleaned the raw dataset

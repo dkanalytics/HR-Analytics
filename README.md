@@ -104,7 +104,7 @@ Rather than presenting raw metrics alone, the project focused on extracting acti
 Key findings included:
 
 - HR and Procurement departments recorded the highest average salaries.
-- Approximately 87% of employees received bonuses.
+- Approximately 98% of employees received bonuses.
 - Average salary generally increased with age and experience.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 - Salary levels varied across geographic regions and departments.

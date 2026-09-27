@@ -109,6 +109,9 @@ Key findings included:
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 - Salary levels varied across geographic regions and departments.
 
+<img width="1171" height="691" alt="nexora_key-insights" src="https://github.com/user-attachments/assets/ebbd5149-c5f3-4194-a58b-90fd55ff6c2e" />
+
+
 These findings demonstrate how workforce data can be leveraged to support compensation and talent management decisions.
 
 ### 8. QA and validation

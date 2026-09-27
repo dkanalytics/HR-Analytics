@@ -8,18 +8,18 @@ Nexora is a simulated multinational company with employees across multiple depar
 
 The objective was to transform raw employee data into an interactive Excel dashboard that provides insight into workforce compensation, bonus allocation, demographics, and departmental salary trends. The dashboard enables HR and management teams to identify salary patterns, monitor compensation distribution, and make data-driven decisions regarding workforce planning.
 
-<img width="1342" height="662" alt="Employee-Salary-Dashboard" src="https://github.com/user-attachments/assets/3d4518c1-3a07-4087-9be5-93a2842acda7" />
+<img width="100%" alt="Employee-Salary-Dashboard" src="https://github.com/user-attachments/assets/3d4518c1-3a07-4087-9be5-93a2842acda7" />
 
 Interactive slicers to filter that data by Area and Department.
 
-<img width="1342" height="662" alt="Main-Screen-Shot-GIF22" src="https://github.com/user-attachments/assets/a47c046f-f369-4fc5-b29d-7905a87f3db6" />
+<img width="100%" alt="Main-Screen-Shot-GIF22" src="https://github.com/user-attachments/assets/a47c046f-f369-4fc5-b29d-7905a87f3db6" />
 
 ## Process
 ### 1. Generated and cleaned the raw dataset
 
 The project began with a synthetic HR dataset containing employee records, including salaries, bonuses, departments, age, gender, performance ratings, and geographic location.
 
-<img width="1130" height="406" alt="Raw-data" src="https://github.com/user-attachments/assets/30ca73e1-93b1-4071-b5b8-30b8edf0745f" />
+<img width="100%" alt="Raw-data" src="https://github.com/user-attachments/assets/30ca73e1-93b1-4071-b5b8-30b8edf0745f" />
 
 The raw data was manually reviewed and cleaned to ensure consistency across fields, remove formatting issues, standardize values, and prepare the dataset for analysis.
 
@@ -29,7 +29,7 @@ The cleaned dataset was converted into a structured Excel Table, ensuring each r
 
 This made the dataset suitable for PivotTables, filtering, dashboard visuals, and future scalability.
 
-<img width="1495" height="446" alt="Cleaned-data-consolidated" src="https://github.com/user-attachments/assets/53c9db68-fd0c-4afd-9e46-f34fa9a7399a" />
+<img width="100%" alt="Cleaned-data-consolidated" src="https://github.com/user-attachments/assets/53c9db68-fd0c-4afd-9e46-f34fa9a7399a" />
 
 
 ### 3. Performed exploratory analysis
@@ -46,7 +46,7 @@ The dataset was reviewed to identify:
 - Age-related compensation trends
 - Geographic workforce distribution
 
-<img width="421" height="253" alt="Insight-Calculations" src="https://github.com/user-attachments/assets/0038f3df-9e45-41cb-8db8-409b2132d273" />
+<img width="100%" alt="Insight-Calculations" src="https://github.com/user-attachments/assets/0038f3df-9e45-41cb-8db8-409b2132d273" />
 
 
 ### 4. Built calculation and KPI sheets
@@ -80,7 +80,7 @@ Analysis included:
 
 PivotCharts were then created to visualize these findings and improve data accessibility.
 
-<img width="1163" height="295" alt="Pivot-Tables" src="https://github.com/user-attachments/assets/89be2471-c9ef-45c9-84ed-30a534d0d127" />
+<img width="100%" alt="Pivot-Tables" src="https://github.com/user-attachments/assets/89be2471-c9ef-45c9-84ed-30a534d0d127" />
 
 ### 6. Assembled the interactive dashboard
 
@@ -92,7 +92,7 @@ KPI Cards
 - Average Salary
 - Bonus Participation %
 
-<img width="1342" height="662" alt="Employee-Salary-Dashboard" src="https://github.com/user-attachments/assets/3f3e96b1-d6cf-4230-8453-93586d65e501" />
+<img width="100%" alt="Employee-Salary-Dashboard" src="https://github.com/user-attachments/assets/3f3e96b1-d6cf-4230-8453-93586d65e501" />
 
 
 Interactive Slicers to filter Area and/or Department allows users to quickly explore employee compensation patterns and identify key workforce trends.
@@ -109,7 +109,7 @@ Key findings included:
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 - Salary levels varied across geographic regions and departments.
 
-<img width="1171" height="691" alt="nexora_key-insights" src="https://github.com/user-attachments/assets/ebbd5149-c5f3-4194-a58b-90fd55ff6c2e" />
+<img width="100%" alt="nexora_key-insights" src="https://github.com/user-attachments/assets/ebbd5149-c5f3-4194-a58b-90fd55ff6c2e" />
 
 
 These findings demonstrate how workforce data can be leveraged to support compensation and talent management decisions.

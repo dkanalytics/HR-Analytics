@@ -46,7 +46,7 @@ The dataset was reviewed to identify:
 - Age-related compensation trends
 - Geographic workforce distribution
 
-<img width="100%" alt="Insight-Calculations" src="https://github.com/user-attachments/assets/0038f3df-9e45-41cb-8db8-409b2132d273" />
+<img height="100%" alt="Insight-Calculations" src="https://github.com/user-attachments/assets/0038f3df-9e45-41cb-8db8-409b2132d273" />
 
 
 ### 4. Built calculation and KPI sheets

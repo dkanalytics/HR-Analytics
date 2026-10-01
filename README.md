@@ -101,13 +101,28 @@ Interactive Slicers to filter Area and/or Department allows users to quickly exp
 
 Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
 
-Key findings included:
+#### Key findings included:
 
 - HR and Procurement departments recorded the highest average salaries.
 - Approximately 98% of employees received bonuses.
 - Average salary generally increased with age and experience.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 - Salary levels varied across geographic regions and departments.
+- Three out of 153 employees did not receive bonuses.
+
+#### Action Items:
+
+**1) Investigate the Website department's gender pay gap specifically.**
+
+It is the one place where the company-wide "women earn more" pattern reverses, and by a wide margin — worth understanding whether that's role/seniority mix or something else before it becomes a compliance question.
+
+**2) Review whether performance ratings should influence pay more than they currently do.**
+
+With Poor and Very Poor performers earning about the same as Average performers, the current pay structure doesn't obviously incentivize the rating system it uses.
+
+**3) Check the three zero-bonus employees individually.**
+
+Confirm whether it's a deliberate policy reason (e.g. probation period, recent start) or a data entry gap.
 
 <img width="100%" alt="nexora_key-insights" src="https://github.com/user-attachments/assets/ebbd5149-c5f3-4194-a58b-90fd55ff6c2e" />
 

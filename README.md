@@ -105,7 +105,7 @@ Rather than presenting raw metrics alone, the project focused on extracting acti
 
 - HR and Procurement departments recorded the highest average salaries.
 - Approximately 98% of employees received bonuses.
-- Average salary generally increased with age and experience.
+- The correlation between salary and age is 0.07, and between salary and tenure is 0.01. Thus the age or how long the employee has been with a company for has little effect on their compensation.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 - Salary levels varied across geographic regions and departments.
 - Three out of 153 employees did not receive bonuses.

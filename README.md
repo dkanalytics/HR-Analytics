@@ -150,3 +150,8 @@ Formula references and dashboard calculations were reviewed to ensure the report
 - Dashboard Design with interactive Reporting
 
 This project uses a synthetic employee dataset created for analytics and dashboarding purposes. The raw data was manually cleaned, validated, and transformed prior to analysis and dashboard development.
+
+## Files
+
+  - [Download the full workbook](Nexora-Employee-HR-Analytics.xlsx) — Dashboard, Key Insights, Pivots, Input Data, Target Analysis, Customer mapping
+
